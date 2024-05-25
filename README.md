@@ -15,9 +15,12 @@ Leveraging electromyography devices, we measure, model, and predict VR users’ 
 
 ## Usage
 
-Code and data coming soon!
+1. Download the dataset at [OneDrive](https://1drv.ms/f/s!Ahl4AorfaIk6kP1fu47JkKarPTepug?e=6kUopa);
+2. Place the extracted `Data/` folder under the project root directory;
+3. Move into the MCL-Estimation subfolder: `cd MCL-Estimation`;
+4. Train and evaluate MCLNet: `python main.py`.
 
-For further details about the model, please refer to [our paper](https://www.immersivecomputinglab.org/wp-content/uploads/2023/05/xr-ergonomics-neck-comfort.pdf).
+For more details about our model and dataset, please refer to [our paper](https://www.immersivecomputinglab.org/wp-content/uploads/2023/05/xr-ergonomics-neck-comfort.pdf).
 
 ## Citation
 
